@@ -1,0 +1,15 @@
+---
+title: "prueba"
+author: "sofya"
+date: "2026-04-28"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Prueba
+
+probando cosas
+
